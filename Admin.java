@@ -1,5 +1,6 @@
-import java.util.List ;
-public class Admin{
-	private List<Emp> emps ;
+package cn.mldn.hr.vo ;
+import java.io.* ;
+public class Admin implements Serializable{
 	private String aid ;
+	private Stirng password ;
 }
