@@ -1,1 +1,2 @@
-111111111111
+Admin admin = new Admin() ;
+Emp emp = new Emp() ;
